@@ -41,3 +41,17 @@ Users are notified when:
 ○ Someone mentions them using @user name
 The icon shows the number of unread notifications
 Clicking the icon opens a dropdown with recent notifications
+
+
+Team name:- Team GRAY Code
+Member 1:- Gracy Christian (Team lead)
+Email id:- 23bce087@nirmauni.ac.in
+
+Member2:- Anand Nakum
+Email id:- anandnakum23@gmail.com
+
+Member3:- Ramnik Parmar
+Email id:- parmarramnik408@gmail.com
+
+Member4:- Yagnik Nandasana
+Email id:- yagniknandasana0@gmail.com
